@@ -1,7 +1,0 @@
-#SPDX-License-Identifier: MIT-0
----
-# handlers file for roles/vector-role
----
-- name: Restart Vector service
-  ansible.builtin.debug:
-    msg: "Vector service restarted"
