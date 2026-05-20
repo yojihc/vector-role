@@ -51,5 +51,3 @@ This project is licensed under MIT License. See [LICENSE](/LICENSE) for more det
 ## Author Information
 
 [Vector](https://vector.dev/docs/) by [DATALOG](https://www.datadoghq.com/about/leadership/).
-
-Role by `InfernoFeniks`.
