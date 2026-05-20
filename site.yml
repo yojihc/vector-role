@@ -1,6 +1,0 @@
----
-- name: Install Vector
-  hosts: all
-  become: true
-  roles:
-    - vector-role

@@ -1,7 +1,0 @@
-#SPDX-License-Identifier: MIT-0
----
-# defaults file for roles/vector-role
----
-vector_version: "0.34.1"
-# Ссылка целиком, чтобы не мучаться со слэшами
-vector_url: "https://timber.io{{ vector_version }}/vector_{{ vector_version }}-1_amd64.deb"
